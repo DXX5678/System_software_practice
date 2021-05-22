@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o6rm6Ied2drnx0OEkzHTY1LdVNjSeFB7jFTD0AZo2eY5oXUA9CjZ4FyiAxbKhVKTG/1UMk/W7MgmLGSJXzOKFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\丁旭行\\source\\repos\\计算器\\计算器.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\丁旭行\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\丁旭行\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\丁旭行\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

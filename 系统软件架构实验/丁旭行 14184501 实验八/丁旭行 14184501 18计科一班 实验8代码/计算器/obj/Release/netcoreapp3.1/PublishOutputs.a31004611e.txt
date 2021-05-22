@@ -1,0 +1,6 @@
+C:\Users\丁旭行\source\repos\计算器\bin\Release\netcoreapp3.1\publish\计算器.exe
+C:\Users\丁旭行\source\repos\计算器\bin\Release\netcoreapp3.1\publish\计算器.dll
+C:\Users\丁旭行\source\repos\计算器\bin\Release\netcoreapp3.1\publish\计算器.deps.json
+C:\Users\丁旭行\source\repos\计算器\bin\Release\netcoreapp3.1\publish\计算器.runtimeconfig.json
+C:\Users\丁旭行\source\repos\计算器\bin\Release\netcoreapp3.1\publish\计算器.pdb
+C:\Users\丁旭行\source\repos\计算器\bin\Release\netcoreapp3.1\publish\nunit.framework.dll

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>计算器</id>
+    <version>1.0.0</version>
+    <authors>计算器</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="NUnit" version="3.12.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\丁旭行\source\repos\计算器\bin\x64\Debug\netcoreapp3.1\计算器.runtimeconfig.json" target="lib\netcoreapp3.1\计算器.runtimeconfig.json" />
+    <file src="C:\Users\丁旭行\source\repos\计算器\bin\x64\Debug\netcoreapp3.1\计算器.dll" target="lib\netcoreapp3.1\计算器.dll" />
+  </files>
+</package>
